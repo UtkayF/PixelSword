@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31697fdb301c58744b8c494e79cbbbd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - player: {instanceID: 0}
+  - hSystem: {instanceID: 0}
+  - hSystemGAMEOBJ: {instanceID: 0}
+  - expParticle: {fileID: 14401345758415893, guid: bdb3eeda5f07fe2489e2866c835c8fea,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
